@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://nimble-rolypoly-28f489.netlify.app/"
 title = "OMEGA"
 theme = "omega-hugo"
 # google analytics
